@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CTO & Full-stack developer since 2012. I love coding in Next.js, Typescript, and AWS (Serverless). I love bootstrapping projects and teams. I particularly enjoy the early stages of product building. I'm a co-organizer of Serverless Italy Meetup and ServerlessDays. During the weekends, I'm a timekeeper at national and international sports competitions.
+#### About me
+
+**CTO & Full-stack developer since 2012.** I love coding in Next.js, Typescript, and AWS (Serverless). I love bootstrapping projects and teams. I particularly enjoy the early stages of product building. I'm a co-organizer of Serverless Italy Meetup and ServerlessDays. During the weekends, I'm a timekeeper at national and international sports competitions.
+
+### Let's chat!
 
 Let's [get in touch](https://linktr.ee/lanzone31)?
